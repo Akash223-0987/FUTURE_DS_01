@@ -1,0 +1,22 @@
+# Virtual Environment
+venv/
+ENV/
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE Settings
+.vscode/
+.idea/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Power BI temp files
+*.pbix.tmp
